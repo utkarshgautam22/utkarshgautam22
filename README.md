@@ -35,20 +35,14 @@ Hi, I'm **Utkarsh Gautam**—an eager learner passionate about exploring new tec
 - 📱 Android development  
 - 🌐 Responsive web design  
 - 📊 Data structures and algorithms  
+- 🤖 Artificial Intelligence and Machine Learning  
 
 ---
 
 ## 🌱 Projects  
 
 ### 🚧 Currently Working On  
-- **To-Do List App**: A Kotlin-based app to organize and prioritize daily tasks.  
-
-### Featured Projects  
-1. **Expense Tracker**: Monitor and manage expenses seamlessly.  
-2. **Quiz App**: An interactive and engaging quiz platform.  
-3. **Virtual Campus Guide for NIT Calicut**: Navigate the campus with ease.  
-
----
+- **Facial Expression Recognition**: An AI-based project leveraging image data to analyze and interpret facial expressions using deep learning techniques.  
 
 ## 📊 GitHub Stats  
 
@@ -59,7 +53,7 @@ Hi, I'm **Utkarsh Gautam**—an eager learner passionate about exploring new tec
 
 ## 🤝 Let's Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-gautam-578724310)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-gautam-578724310)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iutkarshgautam@gmail.com)  
 
 ---
