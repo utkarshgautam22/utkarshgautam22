@@ -1,4 +1,3 @@
-
 # 👋 Welcome to **Utkarsh Gautam's GitHub!**
 
 Hi, I'm **Utkarsh Gautam**—an eager learner passionate about exploring new technologies and building meaningful projects. I believe in continuous learning and leveraging my skills to solve real-world problems.
@@ -10,7 +9,7 @@ Hi, I'm **Utkarsh Gautam**—an eager learner passionate about exploring new tec
 - 🧑‍🎓 **Computer Science and Engineering student at NIT Calicut.**  
 - 🌱 Currently diving into **Kotlin** for mobile app development.  
 - 💡 Always curious and ready to explore **new technologies** and **tools**.  
-- 🛠️ Equipped with **basic to medium knowledge** in programming and web development.  
+- 🚰 Equipped with **basic to medium knowledge** in programming and web development.  
 - 🎯 **Goal:** Build impactful projects that enhance user experience and efficiency.  
 
 ---
@@ -28,7 +27,12 @@ Hi, I'm **Utkarsh Gautam**—an eager learner passionate about exploring new tec
 ### Tools & Frameworks  
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)   
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)   
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
 
 ### Interests  
 - 💻 Competitive programming  
