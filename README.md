@@ -154,16 +154,41 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=utkarshgautam22&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshgautam22&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=utkarshgautam22&show_icons=true&theme=github_dark&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=utkarshgautam22&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+</div>
+
+## 💻 Most Used Languages
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshgautam22&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=12&exclude_repo=utkarshgautam22"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshgautam22&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=utkarshgautam22&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshgautam22&layout=pie&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=6" width="400"/>
 </div>
 
+<details>
+<summary>📈 Detailed Language Breakdown</summary>
+<br>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshgautam22&theme=github-compact&hide_border=true&bg_color=0d1117" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshgautam22&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=20&card_width=600&custom_title=Complete%20Language%20Statistics" width="600"/>
+</div>
+
+</details>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/utkarshgautam22/utkarshgautam22/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/utkarshgautam22/utkarshgautam22/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/utkarshgautam22/utkarshgautam22/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
@@ -176,10 +201,10 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 GitHub Activity Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/utkarshgautam22/utkarshgautam22/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshgautam22&theme=github-compact&hide_border=true&bg_color=0d1117" alt="GitHub Activity Graph"/>
 </div>
 
 ---
@@ -189,21 +214,6 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
 </div>
-
----
-
-## 🎵 Spotify Playing
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Playing" width="350" />
-</div>
-
----
-
-## 📈 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ---
 
