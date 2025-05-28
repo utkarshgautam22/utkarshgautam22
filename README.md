@@ -1,169 +1,221 @@
-<h1 align="center">Hi there, I'm Utkarsh Gautam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-<p align="center">
-  <em>A curious CSE student at NIT Calicut (he/him), passionate about exploring new fields of technology and continuously improving my skills. <br> I enjoy creating tools and software that not only hone my abilities but also assist in various tasks.</em>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Utkarsh+Gautam!+👋;Full+Stack+Developer+💻;AI%2FML+Enthusiast+🤖;Competitive+Programmer+⚡;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <a href="mailto:iutkarshgautam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/utkarsh-gautam-578724310"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/utkarshgautam22"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.instagram.com/__utkarsh_gautam/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
+<h3 align="center">🎯 A curious CSE student at NIT Calicut, passionate about exploring new technologies</h3>
+<h3 align="center">💡 Building tools and software that solve real-world problems</h3>
+
+<div align="center">
+  
+  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:iutkarshgautam@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-gautam-578724310)
+  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/__utkarsh_gautam/)
+  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/utkarshgautam22)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=utkarshgautam22&label=Profile%20views&color=0e75b6&style=flat)
+  
+</div>
 
 ---
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🚀 About Me
 
-*   🎓 Currently a Computer Science and Engineering student at NIT Calicut.
-*   💡 I'm driven by curiosity and a desire to learn and apply new technologies to solve real-world problems.
-*   🛠️ My focus is on developing practical tools and software.
-*   🌱 I'm currently honing my Data Structures & Algorithms (DSA) and competitive programming skills.
-*   🎯 Planning to dive into larger, more complex projects like operating systems and compilers.
-*   🤝 Open to collaborations, internships, and exciting new opportunities!
-*   🤫 Fun fact: I'm an anime watcher and a bit of an introvert.
+- 🎓 **Computer Science & Engineering** student at **NIT Calicut**
+- 💻 **Full Stack Developer** with passion for **AI/ML**
+- 🔍 Currently mastering **Data Structures & Algorithms**
+- 🎯 Planning to dive into **Operating Systems** and **Compilers**
+- 🤝 Open to **collaborations**, **internships**, and **opportunities**
+- 🎌 **Anime enthusiast** and proud **introvert**
+- ⚡ Fun fact: I debug with `console.log()` and I'm not ashamed!
+
+<br clear="both">
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Arsenal
 
-Here are some of the technologies and tools I work with:
+<div align="center">
+
+### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+
+### 🌐 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vanilla JS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+### 🤖 AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🛠️ Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+
+### 🎯 Other Skills
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-4B0082?style=for-the-badge&logo=security&logoColor=white)
+![Android](https://img.shields.io/badge/Android_Dev-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Competitive Programming](https://img.shields.io/badge/Competitive_Programming-FFA116?style=for-the-badge&logo=codeforces&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
 
 <table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" /><br>C
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" /><br>C++
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /><br>Python
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /><br>JavaScript
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" /><br>HTML5
-    </td>
-     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin" /><br>Kotlin (Android)
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" /><br>React
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" /><br>Node.js
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js" /><br>Express.js
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask" /><br>Flask
-    </td>
-     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI" /><br>FastAPI
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" /><br>TensorFlow
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" /><br>PyTorch
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" /><br>NumPy
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" /><br>Pandas
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" /><br>MongoDB
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" /><br>PostgreSQL
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" /><br>MySQL
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" /><br>Git
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /><br>Docker
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" /><br>VS Code
-    </td>
-     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" alt="Jupyter" /><br>Jupyter
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/ios-filled/50/000000/cyber-security.png" width="40" height="40" alt="Cyber Security" /><br>Cyber Security
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/ios-filled/50/000000/code.png" width="40" height="40" alt="DSA" /><br>DSA & CP
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+
+### 🏅 [isocode](https://github.com/utkarshgautam22/isocode)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Online DSA & CP Platform**
+- ⚡ Optimized Docker-based sandboxed execution
+- 🎯 Competitive programming practice environment
+- 🔒 Secure code execution infrastructure
+
+</td>
+<td width="50%">
+
+### 🏏 [cricket-genie](https://github.com/utkarshgautam22/cricket-genie)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![AI](https://img.shields.io/badge/AI-FF6B6B?style=flat-square&logo=openai&logoColor=white)
+
+**Cricket AI Assistant**
+- 🤖 AI-powered fantasy cricket advisor
+- 📊 Real-time data analysis
+- 🎯 Cricket insights and predictions
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ☁️ [cloud-dev-environment](https://github.com/utkarshgautam22/cloud-dev-environment)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Cloud Development Environment**
+- 🌐 Docker-containerized dev setups
+- 📦 Reproducible development environments
+- ⚡ Instant deployment ready
+
+</td>
+<td width="50%">
+
+### 📄 [AskMyDocs](https://github.com/utkarshgautam22/AskMyDocs)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6B6B?style=flat-square&logo=openai&logoColor=white)
+
+**Document Q&A System**
+- 💬 AI-powered document interaction
+- 🔍 Intelligent document search
+- 📚 Knowledge extraction tool
+
+</td>
+</tr>
 </table>
 
-*   **And more:** Scikit-learn, RESTful APIs.
+</div>
 
 ---
 
-## 🌟 Highlighted Projects
+## 📊 GitHub Analytics
 
-Here are a few projects I'm particularly proud of. You can find more on my repositories tab!
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=utkarshgautam22&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshgautam22&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117"/>
+</div>
 
-1.  **[isocode](https://github.com/utkarshgautam22/isocode)** `(Python, Docker)`
-    *   An online platform for practicing DSA and competitive programming, featuring optimized, Docker-based sandboxed code execution.
-2.  **[cricket-genie](https://github.com/utkarshgautam22/cricket-genie)** `(JavaScript, AI)`
-    *   An AI-powered assistant for cricket enthusiasts, providing fantasy advice and real-time data analysis to address cricket-related queries.
-3.  **[cloud-dev-environment](https://github.com/utkarshgautam22/cloud-dev-environment)** `(JavaScript, Docker)`
-    *   A tool to create cloud-based, Docker-containerized development environments for seamless and reproducible setups.
-4.  **[AskMyDocs](https://github.com/utkarshgautam22/AskMyDocs)** `(Python)`
-    *   A Python-based application that allows you to ask questions about your documents. *(Consider adding 1-2 key tech/libraries if easy, e.g., Langchain, OpenAI API)*
-5.  **[ShadowFetch](https://github.com/utkarshgautam22/ShadowFetch)** `(Python)`
-    *   An automation tool designed for rapid and concurrent file downloads from specified websites.
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=utkarshgautam22&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+</div>
 
----
-
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utkarshgautam22&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" alt="Utkarsh's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshgautam22&layout=compact&theme=github_dark&langs_count=8" alt="Utkarsh's Top Languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=utkarshgautam22&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
-
-<!-- Optional: Add a GitHub Activity Graph if you like -->
-<!--
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshgautam22&theme=github-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
-</p>
--->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshgautam22&theme=github-compact&hide_border=true&bg_color=0d1117" alt="GitHub Activity Graph"/>
+</div>
 
 ---
 
-## 📬 Get In Touch
+## 🏆 GitHub Trophies
 
-*   **Email:** `iutkarshgautam@gmail.com`
-*   **LinkedIn:** [utkarsh-gautam-578724310](https://www.linkedin.com/in/utkarsh-gautam-578724310)
-*   **Instagram:** [@\_\_utkarsh\_gautam](https://www.instagram.com/__utkarsh_gautam)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=utkarshgautam22&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
 
-Looking forward to connecting with fellow developers, learners, and potential collaborators!
+---
 
-<!-- Optional: Add a visitor counter -->
-<!--
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=utkarshgautam22&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
--->
+## 🐍 Contribution Snake
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/utkarshgautam22/utkarshgautam22/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+</div>
+
+---
+
+## 🎵 Spotify Playing
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Playing" width="350" />
+</div>
+
+---
+
+## 📈 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+<div align="center">
+  
+### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+**Thanks for visiting! Let's connect and build something amazing together! 🚀**
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+</div>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
